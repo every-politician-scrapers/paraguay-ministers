@@ -50,7 +50,7 @@ class Officeholder < Scraped::HTML
   end
 
   field :name do
-    tds[1].css('a').map(&:text).map(&:tidy).first
+    tds[1].text.tidy
   end
 
   field :position do
