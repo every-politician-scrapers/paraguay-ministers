@@ -1,20 +1,20 @@
 @@,wdid,name,position
+->,Q97182373,Hugo Cáceres,NULL->Unidad de Gestión
+->,Q94334903,Euclides Acevedo,NULL->Ministerio de Relaciones Exteriores
+->,Q44074470,Arnoldo Wiens Durksen->Arnoldo Wiens,Ministerio de Obras Públicas y Comunicaciones
+->,Q14661202,Bernardino Soto Estigarribia,Ministerio de Defensa Nacional de Paraguay->Ministerio de Defensa Nacional
+->,Q110194080->NULL,Fernando Saguier,NULL->Ministerio de Tecnologías de la Información y Comunicación
+->,Q110194078->NULL,Carlos Alberto Pereira,"NULL->Ministerio de Urbanismo, Vivienda y Hábitat"
+->,Q110194076->NULL,Cesar Ariel Oviedo Verdún,NULL->Ministerio del Ambiente y Desarrollo Sostenible
+->,Q110194073->NULL,Juan Manuel Brunetti,Ministerio de Educación y Ciencias
+->,Q105954859,Julio Borba,Ministerio de Salud Pública y Bienestar Social de Paraguay->Ministerio de Salud Pública y Bienestar Social
+->,Q105046995,Oscar Llamosas Diaz,NULL->Ministerio de Hacienda
+->,Q105046318,Arnaldo Giuzzio,Ministerio del Interior de Paraguay->Ministerio del Interior
+---,Q52138237,Hugo Velázquez Moreno,Vicepresidente del Paraguay
 ---,Q48136013,Mario Abdo Benítez,Presidente de Paraguay
-+++,Q97182373,Hugo Cáceres,Unidad de Gestión
-+++,Q94334903,Euclides Acevedo,Ministerio de Relaciones Exteriores
-+++,Q84564460,Mario Varela,Ministerio de Desarrollo Social
-+++,Q84563785,Carla Bacigalupo,"Ministerio de Trabajo, Empleo y Seguridad Social"
-+++,Q44074470,Arnoldo Wiens,Ministerio de Obras Públicas y Comunicaciones
-+++,Q3493305,Luis Castiglioni,Ministerio de Industria y Comercio
-+++,Q14661202,Bernardino Soto Estigarribia,Ministerio de Defensa Nacional
-+++,Q106444113,Celina Esther Lezcano,Ministerio de la Mujer
-+++,Q105954859,Julio Borba,Ministerio de Salud Pública y Bienestar Social
-+++,Q105046995,Oscar Llamosas Diaz,Ministerio de Hacienda
-+++,Q105046318,Arnaldo Giuzzio,Ministerio del Interior
-+++,,,Ministerio de Tecnologías de la Información y Comunicación
-+++,,,"Ministerio de Urbanismo, Vivienda y Hábitat"
-+++,,,Ministerio del Ambiente y Desarrollo Sostenible
-+++,,,Ministerio de Educación y Ciencias
-+++,,,Ministerio de Agricultura y Ganadería
-+++,,,Ministerio de Justicia
-+++,,,Ministerio de la Niñez y la Adolescencia
+---,Q110194082,Teresa Martinez Acosta,Ministro de la Niñez y la Adolescencia
+---,Q110193990,Moses Bertoni,Ministerio de Agricultura y Ganadería de Paraguay
+---,Q110193987,Cecilia Perez,Ministerio de Justicia de Paraguay
++++,,Teresa Martínez Acosta,Ministerio de la Niñez y la Adolescencia
++++,,Cecilia Pérez,Ministerio de Justicia
++++,,Moisés Bertoni,Ministerio de Agricultura y Ganadería
