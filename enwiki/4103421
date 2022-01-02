@@ -1,0 +1,187 @@
+{
+  "title": "Luis Castiglioni",
+  "pageID": 4103421,
+  "categories": [
+    "Living people",
+    "Universidad Católica Nuestra Señora de la Asunción alumni",
+    "Paraguayan engineers",
+    "Paraguayan people of Italian descent",
+    "People from San Pedro Department, Paraguay",
+    "Vice presidents of Paraguay",
+    "1962 births",
+    "Colorado Party (Paraguay) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Luis Alberto Castiglioni Soria (born 31 July 1962 ) is a Paraguayan politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paraguayan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Luis Alberto Castiglioni Soria"
+                ]
+              }
+            },
+            {
+              "text": "He was Vice President of Paraguay for the Colorado Party from 2003 to 2007.",
+              "links": [
+                {
+                  "text": "Colorado Party",
+                  "type": "internal",
+                  "page": "Colorado Party (Paraguay)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Paraguayan politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "July 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1962",
+          "month": "7",
+          "day": "31",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Luis Castiglioni"
+          },
+          "image": {
+            "text": "CASTIGLIONI VIKINGA.jpg"
+          },
+          "caption": {
+            "text": "Castiglioni in March 2019"
+          },
+          "office1": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (Paraguay)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "15 August 2018"
+          },
+          "term_end1": {
+            "text": "29 July 2019"
+          },
+          "president1": {
+            "text": "Mario Abdo Benítez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mario Abdo Benítez"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Eladio Loizaga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eladio Loizaga"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Antonio Rivas Palacios"
+          },
+          "office2": {
+            "text": "Vice President of Paraguay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice President of Paraguay"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Nicanor Duarte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicanor Duarte"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "15 August 2003"
+          },
+          "term_end2": {
+            "text": "15 October 2007"
+          },
+          "predecessor2": {
+            "text": "Julio César Franco",
+            "links": [
+              {
+                "text": "Julio César Franco",
+                "type": "internal",
+                "page": "Julio César Franco (politician)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Francisco Oviedo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Francisco Oviedo"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 31, 1962"
+          },
+          "birth_place": {
+            "text": "Itacurubí del Rosario, Paraguay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Itacurubí del Rosario"
+              },
+              {
+                "type": "internal",
+                "page": "Paraguay"
+              }
+            ]
+          },
+          "party": {
+            "text": "Colorado Party",
+            "links": [
+              {
+                "text": "Colorado Party",
+                "type": "internal",
+                "page": "Colorado Party (Paraguay)"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
