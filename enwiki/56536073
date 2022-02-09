@@ -20,15 +20,16 @@
         {
           "sentences": [
             {
-              "text": "Mario Abdo Benítez (born 10 November 1971) is a Paraguayan politician who is the current President of Paraguay.",
+              "text": "Mario Abdo Benítez (born 10 November 1971) is a Paraguayan politician who has served as the president of Paraguay since 2018.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Paraguayan"
                 },
                 {
+                  "text": "president of Paraguay",
                   "type": "internal",
-                  "page": "President of Paraguay"
+                  "page": "president of Paraguay"
                 }
               ],
               "formatting": {
