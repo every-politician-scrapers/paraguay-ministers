@@ -12,10 +12,6 @@ module.exports = function () {
           ?positionItem p:P361 ?ps .
           ?ps ps:P361 wd:${meta.cabinet.parent} .
           FILTER NOT EXISTS { ?ps pq:P582 [] }
-          OPTIONAL {
-            ?positionItem wdt:P2389 ?ministry .
-            OPTIONAL { ?ministry rdfs:label ?ministryLabel FILTER(LANG(?ministryLabel) = "es") }
-          }
 
           # Who currently holds those positions
           ?item wdt:P31 wd:Q5 ; p:P39 ?held .
@@ -40,7 +36,7 @@ module.exports = function () {
           BIND(COALESCE(?sourceName, ?wdLabel) AS ?name)
 
           OPTIONAL { ?positionItem rdfs:label ?positionLabel FILTER(LANG(?positionLabel) = "es") }
-          BIND(COALESCE(?ministryLabel, ?statedName, ?positionLabel) AS ?position)
+          BIND(COALESCE(?statedName, ?positionLabel) AS ?position)
         }
         # ${new Date().toISOString()}
         ORDER BY STR(?name) STR(?position) ?began ?wdid ?sourceDate`

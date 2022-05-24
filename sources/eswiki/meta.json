@@ -1,0 +1,15 @@
+{
+    "jurisdiction": {
+      "name": "Paraguary",
+      "id": "Q733"
+    },
+    "cabinet": {
+      "id": "Q110193490",
+      "start": "2018-08-15",
+      "parent": "Q16850116"
+    },
+    "source": {
+        "url":   "https://es.wikipedia.org/wiki/Mario_Abdo_Ben%C3%ADtez"
+    },
+    "agent": "every-politican-scrapers/paraguay-ministers"
+}
