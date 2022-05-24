@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Paraguary",
+      "id": "Q733"
+    },
+    "cabinet": {
+      "id": "Q110193490",
+      "start": "2018-08-15",
+      "parent": "Q16850116"
+    },
+    "source": {
+        "url":   "",
+        "title": "",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/paraguay-ministers"
+}
