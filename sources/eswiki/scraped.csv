@@ -1,19 +1,19 @@
-wdid,name,position
-Q97182373,Hugo Cáceres,Unidad de Gestión
-Q105046995,Oscar Llamosas Diaz,Ministerio de Hacienda
-Q94334903,Euclides Acevedo,Ministerio de Relaciones Exteriores
-,Federico Alberto González Franco,Ministerio del Interior
-Q105954859,Julio Borba,Ministerio de Salud Pública y Bienestar Social
-Q106444113,Celina Esther Lezcano,Ministerio de la Mujer
-,Cecilia Arminda Pérez Rivas,Ministerio de Justicia
-Q84563785,Carla Bacigalupo,"Ministerio de Trabajo, Empleo y Seguridad Social"
-Q44074470,Arnoldo Wiens,Ministerio de Obras Públicas y Comunicaciones
-,Moisés Bertoni,Ministerio de Agricultura y Ganadería
-Q3493305,Luis Castiglioni,Ministerio de Industria y Comercio
-Q14661202,Bernardino Soto Estigarribia,Ministerio de Defensa Nacional
-,Juan Manuel Brunetti,Ministerio de Educación y Ciencias
-Q84564460,Mario Varela,Ministerio de Desarrollo Social
-,Cesar Ariel Oviedo Verdún,Ministerio del Ambiente y Desarrollo Sostenible
-,Carlos Alberto Pereira,"Ministerio de Urbanismo, Vivienda y Hábitat"
-,Fernando Saguier,Ministerio de Tecnologías de la Información y Comunicación
-,Teresa Martínez Acosta,Ministerio de la Niñez y la Adolescencia
+item,itemLabel,position,positionLabel,startDate,endDate
+Q97182373,Hugo Cáceres,,Unidad de Gestión,2018-08-15,
+Q105046995,Oscar Llamosas Diaz,,Ministerio de Hacienda,2020-10-29,
+Q94334903,Euclides Acevedo,,Ministerio de Relaciones Exteriores,2021-01-22,
+,Federico Alberto González Franco,,Ministerio del Interior,2022-07-22,
+Q105954859,Julio Borba,,Ministerio de Salud Pública y Bienestar Social,2021-03-05,
+Q106444113,Celina Esther Lezcano,,Ministerio de la Mujer,2021-03-09,
+,Cecilia Arminda Pérez Rivas,,Ministerio de Justicia,2019-11-13,
+Q84563785,Carla Bacigalupo,,"Ministerio de Trabajo, Empleo y Seguridad Social",2018-08-15,
+Q44074470,Arnoldo Wiens,,Ministerio de Obras Públicas y Comunicaciones,2018-08-15,
+,Moisés Bertoni,,Ministerio de Agricultura y Ganadería,2020-09-01,
+Q3493305,Luis Castiglioni,,Ministerio de Industria y Comercio,2020-11-11,
+Q14661202,Bernardino Soto Estigarribia,,Ministerio de Defensa Nacional,2018-08-15,
+,Juan Manuel Brunetti,,Ministerio de Educación y Ciencias,2021-03-09,
+Q84564460,Mario Varela,,Ministerio de Desarrollo Social,2018-08-15,
+,Cesar Ariel Oviedo Verdún,,Ministerio del Ambiente y Desarrollo Sostenible,2018-08-29,
+,Carlos Alberto Pereira,,"Ministerio de Urbanismo, Vivienda y Hábitat",2020-11-02,
+,Fernando Saguier,,Ministerio de Tecnologías de la Información y Comunicación,2021-03-10,
+,Teresa Martínez Acosta,,Ministerio de la Niñez y la Adolescencia,2018-08-15,
