@@ -8,8 +8,12 @@
       "start": "2018-08-15",
       "parent": "Q16850116"
     },
-    "source": {
-        "url":   "https://es.wikipedia.org/wiki/Mario_Abdo_Ben%C3%ADtez"
+    "reference": {
+        "P4656": "https://es.wikipedia.org/wiki/Mario_Abdo_Ben%C3%ADtez"
     },
-    "agent": "every-politican-scrapers/paraguay-ministers"
+    "current_only": "true",
+    "lang": "es",
+    "person_description": {
+        "en": "politician in Paraguay"
+    }
 }
