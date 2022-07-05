@@ -3,13 +3,11 @@
 
 require 'every_politician_scraper/comparison'
 
-# Not listed on the site
-SKIP = [
-  ['---', 'Q48136013', 'Mario Abdo Benítez', 'Presidente de Paraguay' ],
-  ['---', 'Q52138237', 'Hugo Velázquez Moreno', 'Vicepresidente del Paraguay' ],
-].freeze
+class Comparison < EveryPoliticianScraper::DecoratedComparison
+  def wikidata
+    @wikidata ||= super.delete_if { |row| row[:positionlabel].include? 'presidente' }
+  end
+end
 
-diff = EveryPoliticianScraper::DecoratedComparison.new('wikidata.csv', 'scraped.csv').diff
-                                                 .reject { |row| SKIP.include? row }
-
+diff = Comparison.new('wikidata.csv', 'scraped.csv').diff
 puts diff.sort_by { |r| [r.first, r[1].to_s] }.reverse.map(&:to_csv)
