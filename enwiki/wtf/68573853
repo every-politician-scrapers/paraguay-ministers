@@ -36,6 +36,14 @@
       ],
       "templates": [
         {
+          "list": [
+            "Quiñonez",
+            "Astigarraga"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
           "df": "y",
           "year": "1968",
           "month": "11",
