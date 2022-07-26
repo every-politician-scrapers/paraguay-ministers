@@ -1,0 +1,50 @@
+[
+  {
+    "office": {
+      "links": [
+        "Senate of Paraguay"
+      ],
+      "stated_as": "Senator of Paraguay"
+    },
+    "P580": "2013-07-01",
+    "P582": "2018-03-01"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Presidents of the Senate of Paraguay"
+      ],
+      "stated_as": "President of the Senate"
+    },
+    "P580": "2015-07-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Blas Llano"
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Roberto Acevedo Penedo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of Paraguay"
+    },
+    "P1545": "51",
+    "P580": "2018-08-15",
+    "P1365": {
+      "links": [
+        "Horacio Cartes"
+      ],
+      "stated_as": "Horacio Cartes"
+    }
+  }
+]
